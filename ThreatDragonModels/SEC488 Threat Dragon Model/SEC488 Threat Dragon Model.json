@@ -319,42 +319,6 @@
               "type": "tm.Flow",
               "smooth": true,
               "source": {
-                "x": 30,
-                "y": 20
-              },
-              "target": {
-                "x": 110,
-                "y": 100
-              },
-              "vertices": [],
-              "id": "d3516946-17db-4529-975b-f271910c972a",
-              "labels": [
-                {
-                  "position": 0.5,
-                  "attrs": {
-                    "text": {
-                      "text": "flow 8",
-                      "font-weight": "400",
-                      "font-size": "small"
-                    }
-                  }
-                }
-              ],
-              "z": 10,
-              "hasOpenThreats": false,
-              "attrs": {
-                ".marker-target": {
-                  "class": "marker-target hasNoOpenThreats isInScope"
-                },
-                ".connection": {
-                  "class": "connection hasNoOpenThreats isInScope"
-                }
-              }
-            },
-            {
-              "type": "tm.Flow",
-              "smooth": true,
-              "source": {
                 "id": "807ad80f-98d9-437c-8626-1dabae83fd7a"
               },
               "target": {
