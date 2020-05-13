@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "SEC488 Threat Dragon Model",
+    "owner": "Me",
+    "description": "Flask Application"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Data Flow",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Me2"
+  }
+}
